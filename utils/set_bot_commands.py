@@ -9,6 +9,6 @@ async def set_default_commands(dp):
             types.BotCommand("contact", "Admin bilan bog'lanish"),
             types.BotCommand("about", "obxavo malumoti va $ kurs"),
             types.BotCommand("kurs", "(usd/uzs)"),
-            types.BotCommand("weather", "(tashkent uchun)"),
+            types.BotCommand("weather", "(Tashkent uchun)"),
         ]
     )
